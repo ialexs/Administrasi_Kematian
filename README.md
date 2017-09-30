@@ -1,6 +1,6 @@
-# Our parents will die - Well..we all will
+# Administrasi Kematian
 
-I'll share here what administrative task to conduct or prepare when the time come.
+I'll share here what administrative task to conduct or prepare _when_ the time come. It will come.
 
 From this point below, it will be in Bahasa Indonesia
 
@@ -10,7 +10,7 @@ _Ibu Irma Ansori Surapati_
 <Br>
 _8 November 1944 - 11 September 2017_
 
-/@ialexs 27 Sept 2017
+/@ialexs - 27 Sept 2017
 
 ## Latar Belakang
 
@@ -24,7 +24,7 @@ Apa yang harus dicapai, dipersiapkan dlsb.
 
 Dalam keadaan keluarga berduka, *_harus_* ada yang bertanggung jawab mengurus semua hal-hal terkait administrasi kependudukan.
 
-Akan sangat membantu jika seluruh syarat administratif dapat dengan mudah ditemukan.
+Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH TERSEDIA** adan dapat dengan mudah ditemukan.
 
 --- 
 
