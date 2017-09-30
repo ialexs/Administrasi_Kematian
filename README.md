@@ -4,6 +4,8 @@ I'll share here what administrative task to conduct or prepare _when_ the time c
 
 From this point below, it will be in Bahasa Indonesia
 
+TL;DR scan & index all your official documentation.
+
 _In loving memoriam_
 <Br><br>
 <img src="5a26847772.487012.jpg">
