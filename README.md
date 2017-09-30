@@ -5,7 +5,9 @@ I'll share here what administrative task to conduct or prepare _when_ the time c
 From this point below, it will be in Bahasa Indonesia
 
 _In loving memoriam_
-<Br>
+<Br><br>
+<img src="5a26847772.487012.jpg">
+<br>
 _Ibu Irma Ansori Surapati_
 <Br>
 _8 November 1944 - 11 September 2017_
