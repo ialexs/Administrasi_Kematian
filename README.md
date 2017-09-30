@@ -102,9 +102,5 @@ Kantor Kelurahan dan Kantor Kecamatan DKI sekarang menggunakan nomor queueing se
 Start documenting & scanning your document!
 
 ---
-/ ialexs 
-/ Sat Sep 30 14:13:14 WIB 2017
-
-
-
-
+/<a href="https://twitter.com/ialexs">@ialexs</a>
+/Sat Sep 30 14:13:14 WIB 2017
