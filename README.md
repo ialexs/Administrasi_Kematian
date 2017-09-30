@@ -24,7 +24,7 @@ Apa yang harus dicapai, dipersiapkan dlsb.
 
 Dalam keadaan keluarga berduka, *_harus_* ada yang bertanggung jawab mengurus semua hal-hal terkait administrasi kependudukan.
 
-Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH TERSEDIA** adan dapat dengan mudah ditemukan.
+Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH TERSEDIA** dan dapat dengan mudah ditemukan.
 
 --- 
 
