@@ -84,6 +84,10 @@ Jadi Akamsi.. alias  Anak Kampung Sini. Kenal, atau setidaknya wajib tahu nama/a
 >
 > Penyebab kematian secara medis akan dicantumkan pada salah satu dokumen resmi: **Surat Keterangan Penyebab Kematian**
 
+Contoh Surat Keterangan Penyebab Kematian dari Dinas Kesehatan DKI 
+
+<img src="Surat_Keterangan_Penyebab_Kematian.png">
+
 
 - **Pejabat RT/RW**
 
@@ -104,3 +108,5 @@ Start documenting & scanning your document!
 ---
 /<a href="https://twitter.com/ialexs">@ialexs</a>
 /Sat Sep 30 14:13:14 WIB 2017
+
+
