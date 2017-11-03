@@ -30,7 +30,7 @@ Dalam keadaan keluarga berduka, *_harus_* ada yang bertanggung jawab mengurus se
 
 Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH TERSEDIA** dan dapat dengan mudah ditemukan.
 
-## GOAL <a href="goalshort"></a>
+## GOAL
 
 Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: **Akta Kematian**
 
@@ -71,7 +71,7 @@ Bayangkan, kalau orang tua tinggal di lain kota dan kakak-beradik berjumlah bany
 
 **Mulai dari sekarang dokumentasikan empat dokumen kependudukan utama tersebut.**
 
-### II. GOAL<a href="goal"></a>
+### II. GOAL
 
 Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: **Akta Kematian**
 <br>
