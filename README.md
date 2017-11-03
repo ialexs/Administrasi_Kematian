@@ -80,7 +80,7 @@ Berikut check list:
 <img src="check_list-thumb.png">
 
 - <a href="https://docs.google.com/spreadsheets/d/1LN7RlhlJd6b7IdraDc-XHPCiSptVUhtkdcoPiY107yQ/edit?usp=sharing">Google Sheet</a>
-- <a href="https://drive.google.com/file/d/0B5eyVPARjEniYnl2Tl9rUUgxdTA/view?usp=sharing">PDF</a>
+- <a href="Check_list-Administrasi_Kematian.pdf">PDF</a>
 
 
 ### III. Jadi AKAMSI
