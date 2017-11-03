@@ -30,7 +30,12 @@ Dalam keadaan keluarga berduka, *_harus_* ada yang bertanggung jawab mengurus se
 
 Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH TERSEDIA** dan dapat dengan mudah ditemukan.
 
---- 
+## GOAL
+
+Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: **Akta Kematian**
+
+
+---
 
 ### I. MULAI SEKARANG SCAN SEMUA DOKUMEN KEPENDUDUKAN
 
@@ -68,7 +73,7 @@ Bayangkan, kalau orang tua tinggal di lain kota dan kakak-beradik berjumlah bany
 
 ### II. GOAL
 
-Goal adalah mendapatkan dokumen resmi kependudukan bernama: **Akta Kematian**
+Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: **Akta Kematian**
 <br>
 Berikut check list:
 
@@ -88,7 +93,7 @@ Jadi Akamsi.. alias  Anak Kampung Sini. Kenal, atau setidaknya wajib tahu nama/a
 >
 > Penyebab kematian secara medis akan dicantumkan pada salah satu dokumen resmi: **Surat Keterangan Penyebab Kematian**
 
-Contoh Surat Keterangan Penyebab Kematian dari Dinas Kesehatan DKI 
+Contoh Surat Keterangan Penyebab Kematian dari Dinas Kesehatan DKI
 
 <img src="Surat_Keterangan_Penyebab_Kematian.png">
 
