@@ -32,7 +32,10 @@ Akan sangat membantu jika seluruh syarat administratif yang diperlukan **SUDAH T
 
 ## GOAL
 
-Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: **Akta Kematian**
+Goal adalah mendapatkan _dokumen resmi_ kependudukan bernama: 
+
+1. Akta Kematian
+1. Surat Keterangan Ahli Waris
 
 
 ---
