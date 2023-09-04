@@ -67,7 +67,7 @@ Jangan hanya photo dengan smartphone.
 Scan semua dokumen tersebut menjadi PDF, dengan DPI >= 300.
 <br>Simpan di tempat aman. Dropbox, GoogleDrive atau yang lain
 
-> [Best practices for file naming - Stanford Library](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+> [Best practices for file naming - Stanford Library](https://laneguides.stanford.edu/DataManagement/Organizing)
 
 
 Bayangkan, kalau orang tua tinggal di lain kota dan kakak-beradik berjumlah banyak, juga berdomisili di berbagai kota.
